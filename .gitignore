@@ -1,0 +1,13 @@
+# Streamlit secrets (DO NOT COMMIT)
+.streamlit/secrets.toml
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+_pycache_/
+*.pyc
+
+# IDE files
+.idea/
